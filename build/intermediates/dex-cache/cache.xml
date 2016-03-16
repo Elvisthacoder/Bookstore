@@ -2,109 +2,109 @@
 <items version="2" >
 
     <item
-        jar="/home/taifa/AndroidStudioProjects/Book/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
-        <dex dex="/home/taifa/AndroidStudioProjects/Book/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_b2de70ea5eab722eb86fc3420a47396840d34e20.jar" />
-    </item>
-    <item
-        jar="/home/taifa/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
-        <dex dex="/home/taifa/AndroidStudioProjects/Book/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_e6b6bb211edf5a9f56fa217889c87a278e588b45.jar" />
-    </item>
-    <item
-        jar="/home/taifa/AndroidStudioProjects/Book/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
-        <dex dex="/home/taifa/AndroidStudioProjects/Book/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_1f47b5493676ed2a12ac099d0829756a6d5af1eb.jar" />
-    </item>
-    <item
-        jar="/home/taifa/AndroidStudioProjects/Book/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.9.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="3158c15bb0ae97575debdb40cfcd8f0f9f244526">
-        <dex dex="/home/taifa/AndroidStudioProjects/Book/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.9.0_91fd6b75670bb85042a32d74a716dda7b412fb28.jar" />
-    </item>
-    <item
-        jar="/home/taifa/AndroidStudioProjects/Book/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.9.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="57528b5deee77bfa2188fc279fd45066366f17f5">
-        <dex dex="/home/taifa/AndroidStudioProjects/Book/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.9.0_97c602ae3957188ecb174167b7358a306f420c4e.jar" />
-    </item>
-    <item
-        jar="/home/taifa/AndroidStudioProjects/Book/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.9.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="ca51025f4a58fc7fb6cfaa85e7d09b7ae47e6187">
-        <dex dex="/home/taifa/AndroidStudioProjects/Book/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.9.0_71a1beb04cf5b1359c00d6b3a969e9584c104ede.jar" />
-    </item>
-    <item
-        jar="/home/taifa/AndroidStudioProjects/Book/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jar="/home/taifa/AndroidStudioProjects/BookLib/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
-        <dex dex="/home/taifa/AndroidStudioProjects/Book/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_ef3dba552fdcc5fe09d0f282e849856725c3f969.jar" />
+        <dex dex="/home/taifa/AndroidStudioProjects/BookLib/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_5d80d633aa011d6b522f5dd76ecbeec34d2d9243.jar" />
     </item>
     <item
-        jar="/home/taifa/AndroidStudioProjects/Book/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jar="/home/taifa/AndroidStudioProjects/BookLib/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.9.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="6e239441500605809818997dd63b62a947195f8c">
-        <dex dex="/home/taifa/AndroidStudioProjects/Book/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_5288b78d8d67f79c6789ad438974d76d4ae16a9b.jar" />
+        sha1="39bd9f893c75eac9e76559cc4e96af6e417afdc5">
+        <dex dex="/home/taifa/AndroidStudioProjects/BookLib/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-0.9.0_89d4f15b7fd80ab9a5820616aef27c3d2c17c7d3.jar" />
     </item>
     <item
         jar="/home/taifa/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="/home/taifa/AndroidStudioProjects/Book/app/build/intermediates/pre-dexed/debug/library-2.4.0_4524f5da4bfd7ae0541c9145ad97b4cb80176213.jar" />
+        <dex dex="/home/taifa/AndroidStudioProjects/BookLib/app/build/intermediates/pre-dexed/debug/library-2.4.0_4524f5da4bfd7ae0541c9145ad97b4cb80176213.jar" />
     </item>
     <item
-        jar="/home/taifa/AndroidStudioProjects/Book/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jar="/home/taifa/AndroidStudioProjects/BookLib/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.9.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="292a9fa091757208efa65e77eef63088247e51f3">
-        <dex dex="/home/taifa/AndroidStudioProjects/Book/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_9d3e659fa3c8b6a4f75476a89ab2f38c2c80fc06.jar" />
+        sha1="3158c15bb0ae97575debdb40cfcd8f0f9f244526">
+        <dex dex="/home/taifa/AndroidStudioProjects/BookLib/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.9.0_a735742b2f36c2b4faf10f2ab569c240aaef1a6e.jar" />
     </item>
     <item
-        jar="/home/taifa/AndroidStudioProjects/Book/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
+        jar="/home/taifa/AndroidStudioProjects/BookLib/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.9.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
-        <dex dex="/home/taifa/AndroidStudioProjects/Book/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.0_f0aed17b6fddc8a4e9c673df87b72a50fa24394b.jar" />
+        sha1="ca51025f4a58fc7fb6cfaa85e7d09b7ae47e6187">
+        <dex dex="/home/taifa/AndroidStudioProjects/BookLib/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.9.0_4a5f66fccb5461ef1225af4c2f4950ad833068ab.jar" />
     </item>
     <item
-        jar="/home/taifa/AndroidStudioProjects/Book/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.9.0/jars/classes.jar"
+        jar="/home/taifa/AndroidStudioProjects/BookLib/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.9.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="4ee95617ab850030c51486d02bc9d207b14419c6">
-        <dex dex="/home/taifa/AndroidStudioProjects/Book/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.9.0_c09bb5b0c9d7ae50df5fc4a524ecdb34e59da179.jar" />
+        <dex dex="/home/taifa/AndroidStudioProjects/BookLib/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.9.0_24ff32a234e4b41bc14833dcf8c4aa7b59ad5a25.jar" />
     </item>
     <item
-        jar="/home/taifa/AndroidStudioProjects/Book/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/jars/classes.jar"
+        jar="/home/taifa/AndroidStudioProjects/BookLib/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
-        <dex dex="/home/taifa/AndroidStudioProjects/Book/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.0_04009c92fb8f6311eb7f52afdf12d3c0975df909.jar" />
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/home/taifa/AndroidStudioProjects/BookLib/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_bd21f50a2a8e0d069cc252a543234381213d2f08.jar" />
     </item>
     <item
-        jar="/home/taifa/AndroidStudioProjects/Book/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.9.0/jars/classes.jar"
+        jar="/home/taifa/AndroidStudioProjects/BookLib/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="39bd9f893c75eac9e76559cc4e96af6e417afdc5">
-        <dex dex="/home/taifa/AndroidStudioProjects/Book/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-0.9.0_70678e0f9c2698dd0102ef142f74790e6af83214.jar" />
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/home/taifa/AndroidStudioProjects/BookLib/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.0_13d417b2cddd9890763836d92f8fadc384b62dc4.jar" />
     </item>
     <item
         jar="/home/taifa/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="129874135e6081269ace2312092031558865de12">
-        <dex dex="/home/taifa/AndroidStudioProjects/Book/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4_963f293e6ed3c50745eac99c7c700f09bae22360.jar" />
+        <dex dex="/home/taifa/AndroidStudioProjects/BookLib/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4_963f293e6ed3c50745eac99c7c700f09bae22360.jar" />
+    </item>
+    <item
+        jar="/home/taifa/AndroidStudioProjects/BookLib/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/home/taifa/AndroidStudioProjects/BookLib/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_1ff83ca6ae9179690b8db576512dbb64a2acf865.jar" />
+    </item>
+    <item
+        jar="/home/taifa/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/home/taifa/AndroidStudioProjects/BookLib/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_e6b6bb211edf5a9f56fa217889c87a278e588b45.jar" />
+    </item>
+    <item
+        jar="/home/taifa/AndroidStudioProjects/BookLib/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="/home/taifa/AndroidStudioProjects/BookLib/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.0_28245a635379c2054080b200f9b9304a59e83b7a.jar" />
+    </item>
+    <item
+        jar="/home/taifa/AndroidStudioProjects/BookLib/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/home/taifa/AndroidStudioProjects/BookLib/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_161d45c1c2a386731b7a938d29e68a2c00caf809.jar" />
+    </item>
+    <item
+        jar="/home/taifa/AndroidStudioProjects/BookLib/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.9.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57528b5deee77bfa2188fc279fd45066366f17f5">
+        <dex dex="/home/taifa/AndroidStudioProjects/BookLib/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.9.0_5a2086d8213436b8f88b256d3b269c2c79303b1f.jar" />
+    </item>
+    <item
+        jar="/home/taifa/AndroidStudioProjects/BookLib/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/home/taifa/AndroidStudioProjects/BookLib/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_f11d93d19987ae58cc49347d07582ba6d1c027f2.jar" />
     </item>
 
 </items>
